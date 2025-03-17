@@ -10,7 +10,7 @@
  ✅ Add movies with titles,and genre  
  ✅ View a  list of tracked movies  
  ✅ Movies can be **marked as watched/unwatched** with a single click.
- ✅ The app leverages **Context API** to manage movie data globally. 
+ ✅ The app leverages **Context API** to manage movie data globally.<br>
  ✅ **Local Storage ensures data persistence**, so movies remain saved even after refreshing the page.  
    
 
