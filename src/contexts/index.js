@@ -1,0 +1,1 @@
+export {MovieContext, MovieProvider, useMovie} from './Movies/MovieContext'
